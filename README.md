@@ -9,7 +9,7 @@
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=RendyEkaHernawan&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
-      <img alt="gif" src="./assets/images/demon-sleyar.gif">
+      <img alt="gif" src="Saber.gif">
    </td>  
  </tr>  
 </table>
