@@ -1,13 +1,13 @@
-<img width=100% title="ANONYMOUS U7P4L" alt="ANONYMOUS U7P4L" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-U7P4L&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="Rendy EKa Hernawan" alt="Rendy Eka Hernawan" src=assets/images/header_.png/>
 
 <table border="0">
  <tr>
     <td>
       <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L+1N;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN"/>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RendyEkaHernawan;"/>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=RendyEkaHernawan&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="RendyEkaHernawan"/>
       <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=U7P4L-IN&data=followers,repositories,stars,commits&theme=viridescent"/>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=RendyEkaHernawan&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
       <img alt="gif" src="./assets/images/demon-sleyar.gif">
    </td>  
@@ -33,11 +33,11 @@ type Person struct {
 func main() {
   var me = new(Person)
   
-  me.name     = "U7P4L 1N"
-  me.username = "U7P4L-IN"
+  me.name     = "Rendy Eka Hernawan"
+  me.username = "Lucide"
   me.age      = "20"
-  me.job      = "AI developer | Web developer"
-  me.hobbies  = []string{"code", "anime", "music"," guiterist"," gaming"}
+  me.job      = "Web developer"
+  me.hobbies  = []string{"code", "anime", "music", " gaming"}
   
   fmt.Println(me)
 }
@@ -50,9 +50,16 @@ func main() {
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
 
 <p align="center">
-<a href="https://t.me/ANONYMOUS_CYBER07"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=utpalxr@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://discord.gg/th3_u7p4l"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://www.youtube.com/c/UtpalCoding"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></br>
+<a href="https://t.me/ANONYMOUS_CYBER07"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rendygithub@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://discord.gg/th3_RendyEkaHernawan"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+ <a href="https://www.youtube.com/c/rendyekahernawan"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></br>
 
-<p align="center"><a href="https://twitter.com/umo_xr"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/U7P4L.XR"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/anon___stranger"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://U7P4L-IN.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+<p align="center">
+ <a href="https://twitter.com/RendySimulasiku"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
+ <a href="https://facebook.com/Rendy Eka Hernawan.XR"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+ <a href="https://instagram.com/rendy.coyy"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center">
+  <a href="https://.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
@@ -60,7 +67,7 @@ func main() {
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
 
 <p align="center">
-    <a href="https://github.com/U7P4L-IN">
+    <a href="https://github.com/RendyEkaHernawan">
           <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
     <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
@@ -201,8 +208,8 @@ func main() {
 ### 🏆GitHub Trophies
 
 <p align="center">
-    <a href="https://github.com/U7P4L-IN">
-          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=U7P4L-IN&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+    <a href="https://github.com/RendyEkaHernawan">
+          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=RendyEkaHernawan&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
     <img width="40%" src="https://holopin.me/amajaying3" />
   </a>
 </p>
@@ -213,7 +220,7 @@ func main() {
 
 
 <p align="center">
-<a href="https://github.com/U7P4L-IN"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<a href="https://github.com/RendyEkaHernawan"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendyEkaHernawan&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=RendyEkaHernawan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </p>
 
@@ -223,11 +230,11 @@ func main() {
 
 ### 📊 GitHub Profile Stats
 <p align="center">
-<a href="https://github.com/U7P4L-IN"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=U7P4L-IN&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false" />
+<a href="https://github.com/RendyEkaHernawan"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=RendyEkaHernawan&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RendyEkaHernawan&theme=dark&hide_border=false" />
  </a></p>
 <p align="center">
-<a href="https://github.com/U7P4L-IN">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<a href="https://github.com/RendyEkaHernawan">
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RendyEkaHernawan&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=RendyEkaHernawan&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
 
