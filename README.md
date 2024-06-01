@@ -1,4 +1,4 @@
-<img width=100% title="Rendy EKa Hernawan" alt="Rendy Eka Hernawan" src=assets/images/header_.png/>
+
 
 <table border="0">
  <tr>
